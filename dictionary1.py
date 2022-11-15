@@ -1,4 +1,4 @@
-# This program is used to translate English to french and vice-versa
+# This program will be able to translate English to french and french to english and will also be able to translate bulgarian to english.
 langauage= input("What language do you want to translated To? Enter 'English' or 'French' or 'Bulgarian' : ")
 langauage = langauage.upper()
 
